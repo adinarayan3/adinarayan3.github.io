@@ -3,9 +3,9 @@ layout: page
 title: Impact of Emotional Valence on the Spatial Precision of One-Shot Episodic Memory
 description: Narayan, A.; Pelli, D.
 #img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 `Abstract:`

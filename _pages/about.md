@@ -29,7 +29,7 @@ latest_posts:
 
 `Hi there!` I'm a neuroscientist at Yale Universiy broadly interested in computational cognitive neuroscience with a focus on understanding how human sensory and attentional systems support memory. 
 
-I grew up in Bangalore, India and recently graduated from New York University where I worked with [Dr. Jonathan Winawer](https://wp.nyu.edu/winawerlab/) and [Robert Woodry](https://rwoodry.github.io/) to understand how neural activity during memory is generated in sensory cortex. Now, as a graduate student at Yale, I work mainly on understanding how sensory reinstatement serves memory during during consolidation and retrieval occurs, and the role of attention in this reinstatement.
+I grew up in Bangalore, India and recently graduated from New York University where I worked with [Dr. Jonathan Winawer](https://wp.nyu.edu/winawerlab/) and [Robert Woodry](https://rwoodry.github.io/) to understand how neural activity during memory is generated in sensory cortex. Now, as a graduate student at Yale, I work mainly on `understanding how sensory reinstatement serves memory` during during consolidation and retrieval occurs, and the `role of attention in this reinstatement.`
 
 When I'm not at my day job, I love playing tennis, long strolls jamming to The Strokes, Noah Kahan, Fleetwood Mac, and Billie Eilish, among many (my Spotify wrapped is a scramble), listening to the sound of water crashing, and cards with friends, or really anything with them.
 
